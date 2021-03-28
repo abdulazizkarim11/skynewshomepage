@@ -1,12 +1,10 @@
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 ## Description
-This project was created to demonstrate the use of Cypress. This project is coded in Javascript.
+This project was created to demonstrate the use of Cypress with cucumber. This project is coded in Javascript.
 
-## Tools:
 
-Cypress
-Cucumber
-
-language: Javascript. 
 
 ### How to run tests
 - Navigate to the root folder /skyNewscom
