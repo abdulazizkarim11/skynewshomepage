@@ -1,0 +1,21 @@
+{
+  "name": "skynewscom",
+  "version": "1.0.0",
+  "description": "small project to test skynews.com homepage",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "./node_modules/.bin/cypress open",
+    "tests": "cypress run **/*.features"
+  },
+  "author": "abdulazizkarim",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^6.8.0",
+    "cypress-cucumber-preprocessor": "^4.0.3",
+    "cypress-iframe": "^1.0.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}
