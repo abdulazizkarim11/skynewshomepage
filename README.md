@@ -4,7 +4,12 @@
 ## Description
 This project was created to demonstrate the use of Cypress with cucumber. This project is coded in Javascript.
 
+## How to Install
 
+- Clone the repo (git clone https://github.com/abdulazizkarim11/skynewshomepage.git)
+- Run npm install cypress.
+
+Below is guide on running the tests.
 
 ### How to run tests
 - Navigate to the root folder /skyNewscom
